@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋, I'm Pranjal Rane
+MS Computer Science student at Northeastern University, Boston, MA
+🔭 I’m currently working on Video Streaming Service
 
-<!--
-**amiyakumarsahu/amiyakumarsahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Cloud Technologies (AWS, Azure) and Large Language Model implementation
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available at https://github.com/pranjal0207
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about React, Node.js, AWS
+
+📫 How to reach me pranjal.rane0207@gmail.com
+
+📄 Know about my experiences https://drive.google.com/file/d/1-vCZRX3FS1gQAh9heqE86gcIiFqDkzSH/view?usp=sharing
+
+⚡ Fun fact I am a huge soccer fan. Reach me out if you want to colaborate on a soccer related project :)
+
+Connect with me:
+pranjal-rane/
+
+Languages and Tools:
+android aws azure bootstrap c cassandra cplusplus csharp css3 dart django docker dotnet elasticsearch express firebase flask flutter git hadoop html5 java javascript jenkins kafka kubernetes linux mariadb mongodb mssql mysql nodejs opencv oracle pandas php postgresql python pytorch qt react reactnative scikit_learn sqlite tensorflow typescript vuejs
